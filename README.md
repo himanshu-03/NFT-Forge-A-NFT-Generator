@@ -10,7 +10,7 @@
 
 ## 📝 Steps to Generate, Upload and Mint your NFTs on OpenSea:
 
-### Generating NFT
+## Generating NFT
 
 1. Head over to `src/config.js` in the project directory
 
@@ -64,11 +64,8 @@
     ```
 <br />
 
----
 
-<br />
-
-### Uploading the arts to IPFS Decentralized Storage
+## Uploading the arts to IPFS Decentralized Storage
 
 1. Head over to `utils/nftport/uploadFiles.js` in the project directory.
 
@@ -84,10 +81,6 @@
     ```bash
     node utils/nftport/uploadFiles.js
     ```
-
-<br />
-
----
 
 <br />
 
@@ -107,10 +100,6 @@
     ```bash
     node utils/nftport/uploadMetas.js
     ```
-
-<br />
-
----
 
 <br />
 
