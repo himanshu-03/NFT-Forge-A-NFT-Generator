@@ -1,0 +1,5202 @@
+[
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibwtofe2jmsu22zvjn7o4toduf3qh2dh5cnw2e3hziclbu4ekj5gi",
+    "name": "OyePaaji #1",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreic36ntexqwxrtho4giqjq3r7sylqrod2exxtxemyshedj5kzohohi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8a4865e1f7cb01fe183860981920aeac40b41fc7",
+      "edition": 1,
+      "date": 1702752552871
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreige6ul2r2vo5v2h4zske4lq7gxn4fj6vm3h5udkd7xwnbqwdsyio4",
+    "name": "OyePaaji #2",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidssfbsybm2aijq47marbzhlgsiqd3y2xhi6mdawvjkqpc3dzqjle",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "c778952a1108477d89ac9348b1f93a5ebc025c7e",
+      "edition": 2,
+      "date": 1702752553129
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicq5rvmp3ph23m3horzzdhupgkbnqkw6xkcrscbrv6k24kemk537m",
+    "name": "OyePaaji #3",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreic2zox34lqbqz5eyyaatumuyqdlna7phfqt5mofmza3rhalrjgkmu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f8ce9d25f2a163def2105a01373a7df8ec1a7ad6",
+      "edition": 3,
+      "date": 1702752553368
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicj7jt63zdoqjrvtna33f2ksxbev676ldwrgwwggqksm4pmswgzmm",
+    "name": "OyePaaji #4",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreia3umbgkxky4xb2uirhjfsvhwqvtnsp5uqaeaz6ntyk5oa3pepyuu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "d060c53d8ceba476f070bc54f80b9fab0fa3722f",
+      "edition": 4,
+      "date": 1702752553592
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigyqao4q2vdw4x5ry3u6tt5lcijmmq6rmabxziojvjo5o574tp3wu",
+    "name": "OyePaaji #5",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihzbilqo3psjuebzpolpsr7iqkfzjiobtokrq4nbiqkwb5e2c5xze",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "aacf7e5e8637db845bc9f4c4cd15a059c743d970",
+      "edition": 5,
+      "date": 1702752553871
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreif7yrneyseodljvoomwzej43xmsl4z25d5m75tvfwmz2q2sw6gwjm",
+    "name": "OyePaaji #6",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicabepkdxhzyud7jxjcdj7anxfrmksvzgtstb4xgbtoqfxmzv7o6q",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "56d94bb5d6aeb42abbf15129a4f5c63f3d33572e",
+      "edition": 6,
+      "date": 1702752554108
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicoclnnz2wpey2vkha7dlddwjrteqqkwiaajcd7q5xsa4ouckr6mi",
+    "name": "OyePaaji #7",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiezfuuqcmujxjamzsu56dkm53rfcjsuktiniww7lcs4jxdvxiaswu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f427cf788e06d0a83dc9112d104e5730528f8c26",
+      "edition": 7,
+      "date": 1702752554337
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiclcmnverasf3q5pojjswje6hqu2odlw55uotwjjzx2vszkx3onfe",
+    "name": "OyePaaji #8",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiffyce6nyaqq6pkgmfynveyzsckty6b4thgpi33zyuhoyzq7ucgfi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8d9a7aca0feb73492def314c18b8f2f1ea9f6091",
+      "edition": 8,
+      "date": 1702752554545
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifjfc5ep7zak6ppm2dehn6622fflgl7wse6rkwflz6qoxsqdnhmcy",
+    "name": "OyePaaji #9",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihyysqirsdfenf5dm6pgx26m5v6impxwk2ibvxn6xxcvxkgu6o74q",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "58a773ebde26a680437a8cd923b9899c2c8a27c9",
+      "edition": 9,
+      "date": 1702752554776
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidgjsvdkjuvphkt3w7i5pzko6cykmub5k5yktzia2tpy2ihrf65am",
+    "name": "OyePaaji #10",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiar3cuwfjyd47rouozjcglsk63n3u6o6eotio22cavifwabgvwcy4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9b0bd00abe5c62f34753e5803dc4218189fe1bb0",
+      "edition": 10,
+      "date": 1702752554987
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreida43effkfisdkdbgtqtmcn2yv6ztmktq3m6ssyr26sbr6e33vmla",
+    "name": "OyePaaji #11",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreif54tvpbjgd3kdix2oz5oojpsvudwmw4gl6jdylxn5cslhff7cfk4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "4f7167a019b202c18ba34ae9147179a4e77d6ca6",
+      "edition": 11,
+      "date": 1702752555203
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidoyeyi3cdtc6vn5maejqfang4jl2nkbapw2642pfmabrpnjuyg4e",
+    "name": "OyePaaji #12",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibyrcgycuazv3ijl7lscvwdo2alkrbi7la6szxwn6kfcm6al3nokq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "0c1f56844ccfd09f0ae92027fabc31d53bc0877c",
+      "edition": 12,
+      "date": 1702752555430
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifkibzoj3fjiq4na2rbwinjm4hndhicrxapaubut2uosbaoggi64y",
+    "name": "OyePaaji #13",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicgruthzq5nsk2r5pdygcdgo7tmoq3vu6culau6j5vkmvcywiggje",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "93973924f1771263d06f3fc3b6839fd1898aabd8",
+      "edition": 13,
+      "date": 1702752555643
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiawenu37rvnyeesdwnccphmesrakebk3zttkny6izeckit36fricu",
+    "name": "OyePaaji #14",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreie7fzyefkxhcjjleujrbrbxtxrnggeeqqhnfijmhhuckuvmyrv47e",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "99fa82b9cf7c4ed4672b318242f1e0e194cdb000",
+      "edition": 14,
+      "date": 1702752555850
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicuhfixu6mn6isy5gcgcj6elbr2mmmweftd4wsg52o4jzzy5ge5fq",
+    "name": "OyePaaji #15",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigsw53uq5stg3nafxaan24blfql3j6wxoqqytwvsar7ss6n6a55oe",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "ea7db27435390d7f13bafb6fe7f9222e3060fe01",
+      "edition": 15,
+      "date": 1702752556075
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibh3zbiqqpwnt5n4ggqqoow2izqhdfrck4jdqrimwxb6p5diq4fj4",
+    "name": "OyePaaji #16",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidafj2jz2trmhcjjtprcictzonpbosmipie263fn3z7dmxecia224",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "34efd07d7646dce57da6bd904fb6f2ac00f3137e",
+      "edition": 16,
+      "date": 1702752556290
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidzw235ubficpqlegjceqfaco3eijvv632ihkhacobpm2m7zt2m7u",
+    "name": "OyePaaji #17",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreih6gn3wh3rd277cjkayvk57kszkavloydtkfvctu2x5gowxvgffci",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a7c164a9a9c839f21c253b7b77434f7e0d11d90d",
+      "edition": 17,
+      "date": 1702752556513
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreie56vjig3axjnprqwn5oh7itpdjlrctime3q36pj23sy76tyfm6d4",
+    "name": "OyePaaji #18",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiativhu64m2wrc57dojid6xffdtvlrkrvtxzvnxcnfrj4tdgzoeey",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a9ffe294d0f74107407b12eec374bebcc126f5cf",
+      "edition": 18,
+      "date": 1702752556745
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreide2jiggzxpkovw2eax5riqhuzv6sx4suosu3zfejm4ugk62yneni",
+    "name": "OyePaaji #19",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiekks5uhwglms7pjhv3tyvhprdqzzomenue2ytvuf4begabkbqfv4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "874242e14bcd6b9e54626b87b49c0730aae26504",
+      "edition": 19,
+      "date": 1702752556958
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibag4fpexwdrmtczcvkhghuiwoy6kaej4re42qsmn5dasz3gxjq4a",
+    "name": "OyePaaji #20",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib34bnlt7hhaouam3oy2wqeid356wjot7wnvbyzsl4gry73wjf7va",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "bc8bb62cf9d9d79a4abb8f4656c23cfb5a3d24f4",
+      "edition": 20,
+      "date": 1702752557189
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicfkyx7onf477nex57ykxp76z2qcs27cn3vrdl5ayhrosefgwgpy4",
+    "name": "OyePaaji #21",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib3rbamc7jzkrfvh4khkue45nayjr2wfcjqdl3didwk7ivd6vp4oe",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "3ff3a219bcd8f6f39e80b33841dd2a03afc0de8d",
+      "edition": 21,
+      "date": 1702752557413
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreid2qtqhoixfshvxofaxx4ok55eui5c2qycgsqq7qvccwn336osujq",
+    "name": "OyePaaji #22",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibwib6dicawwzkc7wjyo635lsognihyrpl67jwhkszj4xpa47do3y",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "6efced9ae58cd2844cbeef0c1fecbb7ea5b84376",
+      "edition": 22,
+      "date": 1702752557636
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreid2lxwrhqjwf7aqtnoirvj6ykldrwxxvse6ydaeaurlys4phftlvu",
+    "name": "OyePaaji #23",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreifht6pkjdoqsprbuw73mno63jetu2agfa6xjzb6ij22m2hk3jtzlq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "c5728320022735cc25fdb1f22ad570ace26c78d9",
+      "edition": 23,
+      "date": 1702752557855
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreianmewgqzv5gunckwnyp7d3go7s6npawkrq4atmseqk7ss7fe6u6i",
+    "name": "OyePaaji #24",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigkzqk5vyw432kvxgrhtjghjcyfyyhjyk7gojxgnvm7lk7u5xlpiu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "db4e8117e2c9387a3c8a7e956a07bea2f1837533",
+      "edition": 24,
+      "date": 1702752558072
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreieyl6i2ip7lhh2vkopmlevy5ciet5j65n3lpc4lyulzeioy7txvua",
+    "name": "OyePaaji #25",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidro2mwz6own6cxcphqc5zj4gyruisiwsch2tc5epq6pkgodxhz4y",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "4074319099637ed59d9c8d6123be21e0bd725d69",
+      "edition": 25,
+      "date": 1702752558296
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreienn3kobvpotb5lx6nxspwuluxx3pfuwwymohmlstq6nflzsuwcjq",
+    "name": "OyePaaji #26",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiec3wji4djfqpj3xirf3axpz7wnz2keizo2gebr36zudsfwr7gpiy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "6aa8c9775c5d52f9ca93d4f1414fe3166df25217",
+      "edition": 26,
+      "date": 1702752558512
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Red Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreihu36ksbgrgii2tudqy3j3qg4stpjtlwd4kkqojbblla7bb2w47pm",
+    "name": "OyePaaji #27",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibdsx726pje752b2lizbjeegarjoe6z3swu2mwb6pkmpr3ikpvs5e",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "fee6c13b72399b39718fc0014d00a682ba48dd7b",
+      "edition": 27,
+      "date": 1702752558725
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifyzougl24smrfybcmsrbquyz65jot4jwenugvbnc2kqbsrl7vave",
+    "name": "OyePaaji #28",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreid37w7r3kopwpd7cvkan2zrykifgsaxwzh6vvoivmraeghk6g5cj4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "deed871e25664ceef0260832c88e4bc9dba2f1cc",
+      "edition": 28,
+      "date": 1702752558942
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibnzv6b2kdx6nwulttzoomerfn3wjh4xz7iow3l46xr356jghvmey",
+    "name": "OyePaaji #29",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreieljazj5wb53u3nicyiii36knvzfhl5cncg7jzgqphid6udnoomt4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "095f08589ad9bf27bd978c7594ecd1889984050c",
+      "edition": 29,
+      "date": 1702752559157
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicfkksmi3kkbru3tjn4zjwv7p6ocwdixp5mguobqn23a4m2hy6vi4",
+    "name": "OyePaaji #30",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibfdl6rvgfoqjhzwk4rvtbyfl2jhdh3rjjpt2fglpkt4ona6pj3aa",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "39dcdbbaa65e555cf749f490250d44698afe1768",
+      "edition": 30,
+      "date": 1702752559374
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibbtbhn2iiwrt646rrm22v6zbuncjba7mn7ybzar36pin2xhawoi4",
+    "name": "OyePaaji #31",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigkr77prxd46slzv6svgecmovs5vdkcb6v3wxjhxayj5aooo67num",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "27a9f4473d0743385c484c224be1ab8073f46fe6",
+      "edition": 31,
+      "date": 1702752559589
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreib46kqtqwxfuqxoxbonfghlbzld5niea77ohzzddtlhip7ugipcla",
+    "name": "OyePaaji #32",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreif57o36lkttfkb3bpaixsyhqir6rqcyofmcscvzs7lvwigwigdsv4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "867602dd561e3e840d277da4ce657594e1379d3e",
+      "edition": 32,
+      "date": 1702752559825
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreialp6yvrub5t5ywvcruhtl45dkjb5av65wboqhd733t4jdh7vdxlm",
+    "name": "OyePaaji #33",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihgkiimuaelpz5qua5f5opox47ozp6v3a6qa2b2vrmxc4d3swnkxq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "0a3e1a8203f2e4afd5e1258fd64ce191347d53a1",
+      "edition": 33,
+      "date": 1702752560044
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicvzb57pusp5uknts5k3ww2kepe3oj2brfuwf4ajxf33ij2f7gpk4",
+    "name": "OyePaaji #34",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiejtjs3vz2le5a6sar3333jqamdogx66sv7nlnxxpqpctrm2oebju",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "d1cd4246a7e1aae8400dd1d4154adc31a75114cc",
+      "edition": 34,
+      "date": 1702752560268
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifmaarnhiqp2faeixmir34t7gz5vy2thhpd36qbil6x6oeyeb7euy",
+    "name": "OyePaaji #35",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiakxuhc3xbmb7ets2o3uuvhc5uhaezd5ounpssjdcccuuh5j4zhhm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "1e9910ae09cef429eb35456f8882cd8b99dd2296",
+      "edition": 35,
+      "date": 1702752560484
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigotol2efoeqq2j33yhs6ag4l6m4t5jqptn6jr4uydjejf3bcmvxi",
+    "name": "OyePaaji #36",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib2pbgh7on235zb56c7thqyop3fnb2fbocwnbnifoxmv7lg5fojey",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8451d54db0573c64e2a6193106b7c1d11b38708e",
+      "edition": 36,
+      "date": 1702752560696
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicl2ycpocqn3xppgtq7mvous5eksvwmpfkydalqvap5h36qzm6osu",
+    "name": "OyePaaji #37",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreieptbihqz7zbitge7phakd6h6mvdkbd56evuni2pncfi5laborrja",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8405f256f5aa14cb0ddb39f2bcb199232aab5645",
+      "edition": 37,
+      "date": 1702752560914
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibvt2qoojere3hz7phdpiybnmt5sxd2m6b5c6sfdfmhebjcmyg22a",
+    "name": "OyePaaji #38",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreig3ehltf5hrxc6zzo5bunevidlcyd3u5srmvxz3t7vyz3mvhf2pxq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "e39d44737509bcb0e79a1564edb9cacb825a2c1d",
+      "edition": 38,
+      "date": 1702752561138
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigqujg3msk5lojz7ao7fcnwjieqseh2br65qy5jh3l5b75uxgrpeu",
+    "name": "OyePaaji #39",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihtiylbkfyj5c3pxisklontvcrnamy6elqq57oa35zevnpkacscvi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "40b23236c5eed3c3d090e68d45f9321d6ae42b75",
+      "edition": 39,
+      "date": 1702752561357
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicwthtm7ag3otjgobxcrhhzc7i2hdlxzc6ja75u3qnrytzjbil4r4",
+    "name": "OyePaaji #40",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidwmaurkvycet67qegupex3hxqhaayara4x7afwu2c76cycmzf4fe",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a1815bae8a8c3025411ca8efbb4872aa287773c2",
+      "edition": 40,
+      "date": 1702752561577
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiexo47nlxb4i33kv3zeihwllp4zei7vqwt3lakcnlp7albbhmvn4m",
+    "name": "OyePaaji #41",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiba4ol4lisd6za7e2gi7tt3p5kkbn4hxjwehh34dhdt22hb5cl3iy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "94a444781b0bf47f6c05edd239333523fc9c9fd0",
+      "edition": 41,
+      "date": 1702752561787
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreieoqol73oie3u36wi6ysyzs5kyszbxtbgmvewgkycjj6s6w6pi5jy",
+    "name": "OyePaaji #42",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihf26rjn74fgjw2ajlfi2x34ostqz673pk2tiolnrovzb25sxjpuy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "afecf0c4ab1c409cc621c29db1b3211cc8ffb1f8",
+      "edition": 42,
+      "date": 1702752562000
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicu4pjcro7kpiss5aucz2hb25ywklul6wybzneif5d5ao6n4sotea",
+    "name": "OyePaaji #43",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihad2w4osm4bgtp7mpncgu3sxjqvrnlxyghocrzjc2myvatxi3ne4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "76acb443ef210a3f6abe5d1a0c59207a060dedce",
+      "edition": 43,
+      "date": 1702752562229
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Red Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidewbjwfzlxa4suw4xjpwvr3ypttcnif3zib2hmbjyu23degenc2y",
+    "name": "OyePaaji #44",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreienaix2ric4sfcf7wsgrstpsqw7vkbo6lteyorgkgizfcgy6h22ey",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "badcf443926992e5b53574bd1a62682c0ace12c1",
+      "edition": 44,
+      "date": 1702752562443
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreial46nfdgj3duqeuiqcjti7ljuxedqtbct3loz56spemswbeelpmi",
+    "name": "OyePaaji #45",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreieky4igsimvtngwkryjwudcsbv3sdolmcytkh3n43tmyac5yd6r3y",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "26df64cba43087da0b1ff15c1eb276057312acae",
+      "edition": 45,
+      "date": 1702752562665
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiatgoivwzdsbv7kkmmgzx64hcjv6suh2vnebjnba23tpa223hg4j4",
+    "name": "OyePaaji #46",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiejhdacaooptgemzf2yvztx42rjjvzzyze5cub2wbjr2xbg5cyiq4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "88cb2bffdacf79f9035498b206c8888c913dd712",
+      "edition": 46,
+      "date": 1702752562878
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidasqolw3aoq3li2pdfeqjtdilb2ingsdxqnbui7wwcviw7tw6icy",
+    "name": "OyePaaji #47",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihhwscfzeud7bmwmqm7srzvo67zt25hbslc5yoc6oqqbnlygxzyca",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f0e7c517770a235f4678b07a26a961bda1742338",
+      "edition": 47,
+      "date": 1702752563090
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiagazfavruprw27ayhguondz5hqvyruyc2l5fbj5oyj3z5igwatli",
+    "name": "OyePaaji #48",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreic7cv5ty7jhcbbtyevkd2ffs6yfwaryy2galgv43wzdsc6yr4qmgq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "aee1b77afd46d1d72a142ac9f41aa4c59e2df110",
+      "edition": 48,
+      "date": 1702752563307
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidbo3v5qlbl5oa7dgbgmxyzzv76xmcree5vdzczigyd75ikhq5jom",
+    "name": "OyePaaji #49",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiawbsdnigomiwxkxxkgvieicw6a3iwzsjfzlwjjnncmwux5wsn6vq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9a9e49dfd1d39d020069040b1e97f0f3fdab255d",
+      "edition": 49,
+      "date": 1702752563518
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibjy67laelvh2lgdmfz6ym4oehbyrhqr6swfmdfgvq5r66fzsx3li",
+    "name": "OyePaaji #50",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigos3j5h3ymqg2kgtpiodxvik67xxup2namoka627bbgcd44fihvm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9ba53b032e91874bbffa0f0f355dbf49bfcdaf77",
+      "edition": 50,
+      "date": 1702752563747
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreic27wxb4ihmbv5x7tr5ov6j7r4nf6ni23fnenyx5foke4sew4uore",
+    "name": "OyePaaji #51",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreifzf56yxulmq2khterjaa4euegdzirc44rtu5c6dhggesb7yd4tdi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8ef41b5a4a09b94a161fbe51ad68e283a45fcb76",
+      "edition": 51,
+      "date": 1702752563959
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifbfvp2fmoptyio2hmf3hrpus56fio2tohxmlardye6rticezdtsi",
+    "name": "OyePaaji #52",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidqessn6d74jbbkk6gtidfvmgtq4fowmkmopii23rwvj62ov3zbvq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "1ea5260231db19d4c8279c35d7ba3d5a1914a1d8",
+      "edition": 52,
+      "date": 1702752564166
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreihfcsjivhuffwp5o2frzgn4ifl4mkzroilifuntcif6rqbcvaizym",
+    "name": "OyePaaji #53",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigqjtxut7tfod6egnolcjyq3f4d6an3yducrogcsfmmjdnyjxlb7q",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "ad68c746f5f7003ade34b838d43261f74b2a55be",
+      "edition": 53,
+      "date": 1702752564389
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicduauu5rdvq27nthpyznp5fz75szv4cf4lnn6ryynn3enyf2qf3u",
+    "name": "OyePaaji #54",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihoqich74crq6dbyzcyrnhq63pslndhtxwsdp3q6rxnsc74xex4tu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "b553ea55ff2b0ec4aeb5bc58e6bb094b679d3dc0",
+      "edition": 54,
+      "date": 1702752564607
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifi7ssvincliuzr3yvvuytfgepj5w3sljlolrxdnkbuj77wfvwg5y",
+    "name": "OyePaaji #55",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib4y5uuf3mgmd4rsomnan5k6ew7doxtfnqbjae3yv5ojfh4hbvdpq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a9d8e959ecc59731249f71345d720d69e56169a5",
+      "edition": 55,
+      "date": 1702752564824
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Red Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifv4nbzaomqwhxgyt5ghiaja6g2lox64zyqjzfdbnaj6vhw64zigq",
+    "name": "OyePaaji #56",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigdobyue6tiubadmzrygjhoqmflx3okoqet47sf5q4fi5g6y6uy7y",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "0af3e5acce5db956b12e9a5dd94f07e33bdaa1c1",
+      "edition": 56,
+      "date": 1702752565046
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreihi4veq5gx6lpffqworhvzysn6ohqmqllwj6nk4gumbqct2jxryqm",
+    "name": "OyePaaji #57",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidjp6344r5cvc4mgtnfzb7hkeoqhyejmyfo7g2iscyxqhwjcrypja",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "6f403d6a595befa74a99246a355a98998fabaaf3",
+      "edition": 57,
+      "date": 1702752565256
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiehfn34drqqpponapr2yenpgxtqk77m7lxgbv4ezrpjg23jfdfkfi",
+    "name": "OyePaaji #58",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidi22vjnzab6l6zxdlycnfrg5wyhbahkkzgr6h5bjuf7mwh7ngyg4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "31af3d492ad05666b3f9fbc7c36914f5771a5dda",
+      "edition": 58,
+      "date": 1702752565479
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigeebyry6kap6ontlripm42asckhjwta62qnc3tjw3bhnjklfp4bi",
+    "name": "OyePaaji #59",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicbh3btcozsxesq7i4o6vprkez3xpweuku7b7ofogbqpijzvf67jm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9871e2c55cb22efc5985a5070c35ec66db562219",
+      "edition": 59,
+      "date": 1702752565698
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigfjxufy3jionqqwqj35elbxxdjjmd3d2tzif4j2pkge7626etd6i",
+    "name": "OyePaaji #60",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicgxzkd3sv53gjr4vnawgxiyj3o4bkg4xhlama2n7qspiqp6l3b7i",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "91906dbc899650d5b5ffde5793666a267739defa",
+      "edition": 60,
+      "date": 1702752565907
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Red Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreig3f4f2smu7rjszbshaytjjivew7jmn3h7sp6bxextwiq2xhwcjey",
+    "name": "OyePaaji #61",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihdq26flptn46vlznctkgshcldag7eid62qoj2dztamkxqbwi52nu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "0f03c60469dc9a53ad1845a4f9d371c099540f74",
+      "edition": 61,
+      "date": 1702752566121
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreih24xb3b35x4mxtui2alsbslqjfimvrguw25jqnpivy5tvsxgm7wy",
+    "name": "OyePaaji #62",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidzrg34rhi2hvx2klhp66x5mvisoeecbq3w5cpsvdxsg23e6fhc4a",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "2b4eef1488fc8e87b8edbb6e1c336db20a730395",
+      "edition": 62,
+      "date": 1702752566334
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreierhui7kulriar4w2gjjpkfds6bbjdbjmntcwkz7opob2qfdvbtza",
+    "name": "OyePaaji #63",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreid2t7l3xd3dsukndshrielndhlhmqosbgclkvftweohyqfzvuoprm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "ec991f84bcd6cd5b09c926ce0844742e7bca4374",
+      "edition": 63,
+      "date": 1702752566557
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreic5szrbxwbo6e3lle5mam3f6tokzm7xbpgfupq65bp2x7sni5dfsi",
+    "name": "OyePaaji #64",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib737wbf4bletb2b6hhmwf6celvekiedn5fkxdx3yofwouyn6azwq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a03dadefcfbcc9a14092a54ba52281519b7f394f",
+      "edition": 64,
+      "date": 1702752566777
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Laptop ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibd3tcd4rrpps2v7i4iejhajhbtvh256sjpblfusjnqnrishzu4fq",
+    "name": "OyePaaji #65",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigtekw5yxqtudliwyhv6a263zqyuadedjsmyttahc5s2nlg2h5elu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a76d65e906384fe245efcd66eb05af6150ffbefd",
+      "edition": 65,
+      "date": 1702752566989
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreihlwvdc6twhiyy6jd4d7wwxebjxrsezlixkmmjqwgopfhxkubocgu",
+    "name": "OyePaaji #66",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigw35fkbam3da37pa6rgghe2mn4vc6iuub553jxsift2vhrqmbw6m",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "314c08eee743501eaa07d9cc9a3eed05f30e6dc2",
+      "edition": 66,
+      "date": 1702752567214
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicjdj4gqe4t6f3wxxluiqcxz6sqpk7ejrsmk3f3cybxwryx4la4si",
+    "name": "OyePaaji #67",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihsaggd5nj4vcdgmljllff7uyqetxbtbs3erhqxcewvvnzeabbz3u",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "c674520ba4bd645f776b1f435357c48a83b32cee",
+      "edition": 67,
+      "date": 1702752567433
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreienq3ql5txjjl3jzqyzohr4khxfb4j5lxuvwvmsfesicy4n7pbqpa",
+    "name": "OyePaaji #68",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihvd5tpk2duwvxzxdlugh7vbuizxk2erm7akhhnyruq4vex7cutdi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f9378dd980e751b0be934d92df9a7f8d90d07445",
+      "edition": 68,
+      "date": 1702752567656
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidnffq3uufzukqiwgcsfh5nyq5225lo7y3y5vwnqbxcywmjvytasi",
+    "name": "OyePaaji #69",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicaudo3b2nypjffbjosx4n3oqgwbvb3mfdhmit7zxr7lwky5apevy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "19eb307d7310bd9eb3b221a1dd5e3e572443c423",
+      "edition": 69,
+      "date": 1702752567879
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiedbzygeyvevckl4ctzmya6qwivmbfd6jecomkbqwmb4pq5qwga4e",
+    "name": "OyePaaji #70",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicxcqkptxriwezk762dxzt7chnumrpqn7ppoqqssjahljecxmolqm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "d282eac648fcec03a2d333832c6b937ee22ecdd1",
+      "edition": 70,
+      "date": 1702752568088
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreia35zwtdxhd2e365imtil64ao55bxlohygikb5gtvz636ynn4lww4",
+    "name": "OyePaaji #71",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreifjw3nqmfdchvops5p43sio7hocod5bp2hqsesua74ascrpeftram",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "ac4d67b361114b453f710ef01930fb464cf65681",
+      "edition": 71,
+      "date": 1702752568311
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidppvd7p6kzdhzba6llnhvfeuvn3hicwjdeodu2tj2zfc7tkvxswa",
+    "name": "OyePaaji #72",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicfrpvfyrszseuxucqdww3gh7tt752aknun4ii7aes3htuirppozu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "6791329c3d3c418048a8f212e1c8ff60b813c11f",
+      "edition": 72,
+      "date": 1702752568520
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiax5pe5xnci7afh53hjtvmkr5avohfl3ap3ursgf67j7wofujibqm",
+    "name": "OyePaaji #73",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidpach2fl3fhq5zn4i2ilt2ios6cj46zq27z5ernv2lkvt5qx34fy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "7e0a01d87ca68372d6626b2a05d6661b2f3f99ed",
+      "edition": 73,
+      "date": 1702752568736
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifjdtbmptbjgj4fm25og6yinjzddyvxdfg5vfki7tqmyydezvxsxy",
+    "name": "OyePaaji #74",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiev5dappjyo2e3s56v45etx24r74gxqg6gpbo7p5lvuozl4wcskfa",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a9ee7450ac53e5d7275fa880cf821ef3edfad580",
+      "edition": 74,
+      "date": 1702752568949
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreib34ea4ree6fz24ayuojpoyhaq65uxatieo3pl76zjbd3mmooucqe",
+    "name": "OyePaaji #75",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibhv5fetwt5owg5tq5j3fugsxtgonnf3xffq72xeprkalathqujwu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "e45658d5ae1ada4f341ecc5c5ab47ba97ffb0380",
+      "edition": 75,
+      "date": 1702752569162
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibdmpvdk4zodp5jldbczhpzs22zhgwcocvpcrpq2fmr3o27enflra",
+    "name": "OyePaaji #76",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicrip554mseoeebfznimqjels6ab7f7bfbn4dfk52enav7rcackvq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "e9762547cbb603ec4fd85aee24ffc44028eb8d5a",
+      "edition": 76,
+      "date": 1702752569385
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifooqubhuslpyw6s4d373d2zlbljnymiu2hj5ddwmv2tscwp4b6ry",
+    "name": "OyePaaji #77",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreia74ah625x7ocv4teej4j4mdzinyqf5r5vkqtbgx5op6nlkiuqosy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f1e5399e191f18f18098fb74e8379aec64c0e901",
+      "edition": 77,
+      "date": 1702752569597
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiebfrppkytkc6qo462y45qemygatjzgprggqcldwph4vk26k3g5t4",
+    "name": "OyePaaji #78",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihw5ycgcgpp7izsjulego4nb35jjmyy2abg5ucm2c7c4enizs4epq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "59baf63c138c70973c10b847d8ea4360f5f42d0d",
+      "edition": 78,
+      "date": 1702752569811
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidwjtjbohn2znp3nvzmj5tvwpgdkk7y4nicsvmwpyclyk2gtpe3ka",
+    "name": "OyePaaji #79",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreie5wy56ccadwnyq2idgeunko6lsbfdae7cneyswk47n7fcz6lsp3y",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "c219ac2c8f6641412f5097e1b8496ec71871b403",
+      "edition": 79,
+      "date": 1702752570028
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifdwq76h22mbibpoofhd4lfeze253d4rfvmu4c2os5bnm6ndvgjnq",
+    "name": "OyePaaji #80",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiadghysynh5fomaok35ziho2vesyoden64oflnkensk5zl2ma4iyy",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "98a335af36f9d2d1ba79e824739a0c0a072dbb3d",
+      "edition": 80,
+      "date": 1702752570240
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiapsdhxmbowoiaw2oxelfkvenxh7u65ujzmivkmqnn7d6obfbau3a",
+    "name": "OyePaaji #81",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiaeqjmhhem7kipdgrllzz6ea5gwjypvuekmrsb2bvesade5exaqhm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "59f39419acd43212707e014cfbbf2fc1b2c96661",
+      "edition": 81,
+      "date": 1702752570463
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicwsw6lc5vehafrifz463zffxk55fnuyd2chr3wxhxq6dpsxuky2i",
+    "name": "OyePaaji #82",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihweb4atc4wnzctujlnlh5wtuzjksp5lab4im6g34kibdtwzsyb6u",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "44b1f8224e68655d4a2670ed6304b35df6e6912b",
+      "edition": 82,
+      "date": 1702752570671
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibpgrtwgmzzvbiid4xk7k7gm33xl7nqiep4byrflo5qy474b4kg4a",
+    "name": "OyePaaji #83",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihknhrscf4g7yclia5cmhzv7dc24dy3rjivt6cbyvfsm2ngmydosm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "86811d65a33caed2d35ce960032da42fb6b1cffd",
+      "edition": 83,
+      "date": 1702752570908
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigibkecejko7zkuv4pze3v7sp7u6a6ry7bhlans2scm6d3cd5y4rm",
+    "name": "OyePaaji #84",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigruhanssipvm6thzefpfudhaumbf4fgwlo7dvsigazh56gwcuhle",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "cc0758e19596581c772dbe2152c4812b5bc30fe4",
+      "edition": 84,
+      "date": 1702752571123
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreieenmf3a2a2ozifokhvc6kwnb46wmeo64hlb4mja53yysjrg6atsu",
+    "name": "OyePaaji #85",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreia2vqiezy75k4me656tm26qpt7g4bvunkji7n4qziibboiw77ileq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f8c932df7a8a2263d98bdbf065dcb7fabaff2bb7",
+      "edition": 85,
+      "date": 1702752571333
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidppqw65qfzb3kgcle74jodvzaj5jxzcjebrwp362rqb2kjv4x4ua",
+    "name": "OyePaaji #86",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihc4ieo4bpuo6uhctwpllynbssqt2qgnizsmzmjqrosuctj46d66u",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8d0f043422e1c00d5a6971a7d1c3b87a5ff4da1b",
+      "edition": 86,
+      "date": 1702752571547
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreic63prawf3ijyvhr2ls6ipnoyzb4rn56cfnn2clhyzxg5a47ukwzy",
+    "name": "OyePaaji #87",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreias34hnzdcq6z35ofwssb2onczlmxahip2mm6hnlpt6lc6a56lnm4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f324d2d8995acf23ea58cfb7a54639e3021370b3",
+      "edition": 87,
+      "date": 1702752571752
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifjbvnpishsyuz5yfzh7swzo4i2w75t6y4qkr3iu26l43u7o4sspu",
+    "name": "OyePaaji #88",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiccaggoib7o75eeabtai2iktwaqtj3x5osmbcqlydmkvhfqcv6s3q",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "090d9a6b33a1ce8ff26b9da95091ddd9b745914e",
+      "edition": 88,
+      "date": 1702752571979
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreig3u3lxj5bqno6ck7ufykzsknobnw6vdiolekh6dch6vspb72ycyy",
+    "name": "OyePaaji #89",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihm7sqb7jfibkg6ptpzzjk2w7h6piu4fep3edip7e3eouvhkqny4u",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "36614e467643a89d9663ccf8057616dc5c430e15",
+      "edition": 89,
+      "date": 1702752572196
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Green Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibno2tnwgnuwprutobfdp2xxitwgjbdf4fubszzpjmhwblzks4jsi",
+    "name": "OyePaaji #90",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidwimuieubxeftnontcpgygd7xf34kmikyfa7n2krf3d33urnuypq",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "339903697ee9fd4af70f85609fcca80989e37353",
+      "edition": 90,
+      "date": 1702752572408
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Red Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreihdqtuxpoqfrxylccmyrjsios6r7jqn75cem4yr3r6cl6wxrkpvne",
+    "name": "OyePaaji #91",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihahwwpdfumn5zax625ye6jsyuw53pt7alyui4ssbgnt3h5icfxoa",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "2f75f45d06c1697d420c0e12885f2962cfcc548e",
+      "edition": 91,
+      "date": 1702752572625
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicd2m2idzybbg4px3mjphrxeht6v3zo6ga42y7caddlubfq5vrfd4",
+    "name": "OyePaaji #92",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigxjrbcq2pjt5r4swiz4sspspfwtl3c565punyumst3rkwskyevz4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "865576893a9b3f8af8c4bac08d45c6b6f27d60f1",
+      "edition": 92,
+      "date": 1702752572836
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreic535uednhntdnj32zd5oy7x47rrgwn6f7xzq7j3jqimr5yyofxhq",
+    "name": "OyePaaji #93",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreifni6j226djabf5p2jn6kv26lunhpafl55of7bhmncs5e2hrkzym4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "3cec59ede6f743dfbe8c833a3b84c7a5ad47ab9d",
+      "edition": 93,
+      "date": 1702752573055
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreient2uu7fy6pffeyqh2oidqyrqys2azgm77xpjdvq4k26lzj5hm7u",
+    "name": "OyePaaji #94",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicf2czazj25lb7gkscqk3trmeuquirldmuyvoelrj5rlvrc76vobu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "87e7e8a1fabc87828692fd955770df6c95ef451a",
+      "edition": 94,
+      "date": 1702752573277
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreif7oji74shi24unox436zxlp3rshdrmzih4excycnesgxpz5vlvhm",
+    "name": "OyePaaji #95",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreifdbecudpin4l5x4xfuwgud3w2vusuljn7cg3stpjn5dgf3667tsa",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8e35dbba891305e0a306994ecafcb7e9b622aaa9",
+      "edition": 95,
+      "date": 1702752573484
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreigw3wpj4rubeldhgb4vl6c26krmnjisqw4xvh44rfro5rtv46lpgu",
+    "name": "OyePaaji #96",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreibuv4v6xb7ipqvju4twc4zo3lfiqmmvglgy5m2ivh5q4zyavrggxa",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9f10ec8e0820f294161bb0b1408b598b4e9949ac",
+      "edition": 96,
+      "date": 1702752573702
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Orange Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreieamunbf3tmipmehhszgwhdfmfn3kkmgcnu46zsbusiwdbsbgfixq",
+    "name": "OyePaaji #97",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiascfxfhuljcly43qu2gke7ivlkm7fx5h3koacjtj4k6eqcfacxlm",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "9ceaf0d6d60b13e2448b47e719116e6b13d2c72f",
+      "edition": 97,
+      "date": 1702752573911
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Red Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibxplv3cmzz67kgqnashzvyz32rwnz7lf4cjdb4zdxhbungdnd4va",
+    "name": "OyePaaji #98",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreidnwh7w5lvm42o6xagtwymblheegcgv3t4h7eat26wyhve6q54f2i",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "05d69c66fe7881bfac69b2ddce7f1226a6e35ece",
+      "edition": 98,
+      "date": 1702752574130
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiava65qgh3xbeariwmqsvtckeidysgfydch3h6euhn4bsahst4mvq",
+    "name": "OyePaaji #99",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreicfnac65kfk3omdcns66a5qs2d7wvlbvrnms6fq7zciymludfspdi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "060b63e2471bdde33772993ac79fc8ee991a90d6",
+      "edition": 99,
+      "date": 1702752574346
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Turtle Neck Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Eyepatch ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreig7mk2nrsv7w7ocnhoqxrv4bqyqfvgxufhuawzkwap2n4n5skydvy",
+    "name": "OyePaaji #100",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreif7b5m6wjkkxg5xa3bqzqjcu7ixglpjp3ibnrncmdgvrqucnt7p7m",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "7406251df1cb7640e18d2911da009570c292474d",
+      "edition": 100,
+      "date": 1702752574557
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Sweater with Phone ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  }
+]

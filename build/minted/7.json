@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicoclnnz2wpey2vkha7dlddwjrteqqkwiaajcd7q5xsa4ouckr6mi",
+    "name": "OyePaaji #7",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiezfuuqcmujxjamzsu56dkm53rfcjsuktiniww7lcs4jxdvxiaswu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "f427cf788e06d0a83dc9112d104e5730528f8c26",
+      "edition": 7,
+      "date": 1702752554337
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0xdea2f0bf6f0a1e66fb695c15bcaa5a941d56636ef5ae20d72e735e25bef82a16",
+    "transaction_external_url": "https://polygonscan.com/tx/0xdea2f0bf6f0a1e66fb695c15bcaa5a941d56636ef5ae20d72e735e25bef82a16",
+    "metadata_uri": "ipfs://bafkreicoclnnz2wpey2vkha7dlddwjrteqqkwiaajcd7q5xsa4ouckr6mi",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

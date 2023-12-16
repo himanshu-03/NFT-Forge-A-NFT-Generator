@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiawenu37rvnyeesdwnccphmesrakebk3zttkny6izeckit36fricu",
+    "name": "OyePaaji #14",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreie7fzyefkxhcjjleujrbrbxtxrnggeeqqhnfijmhhuckuvmyrv47e",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "99fa82b9cf7c4ed4672b318242f1e0e194cdb000",
+      "edition": 14,
+      "date": 1702752555850
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Purple Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Full Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0xc2212ad8d668f1bac23b39536a752eaf049835dfedb82deafd483f01f31beef8",
+    "transaction_external_url": "https://polygonscan.com/tx/0xc2212ad8d668f1bac23b39536a752eaf049835dfedb82deafd483f01f31beef8",
+    "metadata_uri": "ipfs://bafkreiawenu37rvnyeesdwnccphmesrakebk3zttkny6izeckit36fricu",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

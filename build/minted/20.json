@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibag4fpexwdrmtczcvkhghuiwoy6kaej4re42qsmn5dasz3gxjq4a",
+    "name": "OyePaaji #20",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreib34bnlt7hhaouam3oy2wqeid356wjot7wnvbyzsl4gry73wjf7va",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "bc8bb62cf9d9d79a4abb8f4656c23cfb5a3d24f4",
+      "edition": 20,
+      "date": 1702752557189
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Tshirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Green Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0xd831f8291557d6f2233d1a411006cb3cc35f17d976e731f62aa7c56a90302125",
+    "transaction_external_url": "https://polygonscan.com/tx/0xd831f8291557d6f2233d1a411006cb3cc35f17d976e731f62aa7c56a90302125",
+    "metadata_uri": "ipfs://bafkreibag4fpexwdrmtczcvkhghuiwoy6kaej4re42qsmn5dasz3gxjq4a",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreiatgoivwzdsbv7kkmmgzx64hcjv6suh2vnebjnba23tpa223hg4j4",
+    "name": "OyePaaji #46",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreiejhdacaooptgemzf2yvztx42rjjvzzyze5cub2wbjr2xbg5cyiq4",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "88cb2bffdacf79f9035498b206c8888c913dd712",
+      "edition": 46,
+      "date": 1702752562878
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "White Shirt ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Yello Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Driven ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "No Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0x214de03ffe3403747586b2ff1d9260bb892a40cd9267aa6b52e322d737246c27",
+    "transaction_external_url": "https://polygonscan.com/tx/0x214de03ffe3403747586b2ff1d9260bb892a40cd9267aa6b52e322d737246c27",
+    "metadata_uri": "ipfs://bafkreiatgoivwzdsbv7kkmmgzx64hcjv6suh2vnebjnba23tpa223hg4j4",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

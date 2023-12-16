@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreifjfc5ep7zak6ppm2dehn6622fflgl7wse6rkwflz6qoxsqdnhmcy",
+    "name": "OyePaaji #9",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreihyysqirsdfenf5dm6pgx26m5v6impxwk2ibvxn6xxcvxkgu6o74q",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "58a773ebde26a680437a8cd923b9899c2c8a27c9",
+      "edition": 9,
+      "date": 1702752554776
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Blue Hoodie with PS5 ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Sunglasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0x5ed00c65ce5399e4882af125f68e51a06b0a067d3c87fd91b33cd94b0e518a0e",
+    "transaction_external_url": "https://polygonscan.com/tx/0x5ed00c65ce5399e4882af125f68e51a06b0a067d3c87fd91b33cd94b0e518a0e",
+    "metadata_uri": "ipfs://bafkreifjfc5ep7zak6ppm2dehn6622fflgl7wse6rkwflz6qoxsqdnhmcy",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

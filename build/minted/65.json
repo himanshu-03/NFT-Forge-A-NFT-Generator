@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibd3tcd4rrpps2v7i4iejhajhbtvh256sjpblfusjnqnrishzu4fq",
+    "name": "OyePaaji #65",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreigtekw5yxqtudliwyhv6a263zqyuadedjsmyttahc5s2nlg2h5elu",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "a76d65e906384fe245efcd66eb05af6150ffbefd",
+      "edition": 65,
+      "date": 1702752566989
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Black Jacket with White Hoodie ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Blue Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Suspicious ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "Senior Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "No Specs ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0x2e600532f74d0583bf28416fa28445ca500a5c3df871e42b76935f1ff6d9b946",
+    "transaction_external_url": "https://polygonscan.com/tx/0x2e600532f74d0583bf28416fa28445ca500a5c3df871e42b76935f1ff6d9b946",
+    "metadata_uri": "ipfs://bafkreibd3tcd4rrpps2v7i4iejhajhbtvh256sjpblfusjnqnrishzu4fq",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

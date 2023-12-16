@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreibwtofe2jmsu22zvjn7o4toduf3qh2dh5cnw2e3hziclbu4ekj5gi",
+    "name": "OyePaaji #1",
+    "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+    "file_url": "https://ipfs.io/ipfs/bafkreic36ntexqwxrtho4giqjq3r7sylqrod2exxtxemyshedj5kzohohi",
+    "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "8a4865e1f7cb01fe183860981920aeac40b41fc7",
+      "edition": 1,
+      "date": 1702752552871
+    },
+    "attributes": [
+      {
+        "trait_type": "SHIRT",
+        "value": "Yellow Shirt with Coffee ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "HEAD",
+        "value": "Black Turban ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "FACE",
+        "value": "Smile ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "BEARD",
+        "value": "No  Beard ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "MASK",
+        "value": "Medical Mask ",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "SPECS",
+        "value": "Glasses ",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "polygon",
+    "contract_address": "0x33cfce113d154f1920ea0b48053ad801636f8293",
+    "transaction_hash": "0x340d1de3f4a1782fbeb6c09a14eae58414879591e3a6b9a34715efffa7e04da2",
+    "transaction_external_url": "https://polygonscan.com/tx/0x340d1de3f4a1782fbeb6c09a14eae58414879591e3a6b9a34715efffa7e04da2",
+    "metadata_uri": "ipfs://bafkreibwtofe2jmsu22zvjn7o4toduf3qh2dh5cnw2e3hziclbu4ekj5gi",
+    "mint_to_address": "0x70FBa775702e94F64d6DB78d865ACb66eeF0A3EC"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "OyePaaji #98",
+  "description": "OyePaaji is a collection of 999 NFTs living on the Polygon blockchain. With over 50+ hand-drawn traits.",
+  "file_url": "https://ipfs.io/ipfs/bafkreidnwh7w5lvm42o6xagtwymblheegcgv3t4h7eat26wyhve6q54f2i",
+  "attributes": [
+    {
+      "trait_type": "SHIRT",
+      "value": "White Shirt "
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Green Turban "
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Suspicious "
+    },
+    {
+      "trait_type": "BEARD",
+      "value": "Senior Beard "
+    },
+    {
+      "trait_type": "MASK",
+      "value": "No Mask "
+    },
+    {
+      "trait_type": "SPECS",
+      "value": "Glasses "
+    }
+  ],
+  "custom_fields": {
+    "dna": "05d69c66fe7881bfac69b2ddce7f1226a6e35ece",
+    "edition": 98,
+    "date": 1702752574130
+  },
+  "external_url": "https://himanshu-03.github.io/NFT-Forge-Website/"
+}
