@@ -10,11 +10,13 @@
 
 ## 🔗 Links:
 
-1. **NFT Forge Website: https://github.com/himanshu-03/NFT-Forge-Website** 
+1. **NFT Forge Website Repo: https://github.com/himanshu-03/NFT-Forge-Website** 
 
-2. **OpenSea: https://opensea.io/collection/oye-paaji**
+2. **NFT Forge Live Website: https://himanshu-03.github.io/NFT-Forge-Website/**
 
-3. **NFT Product Contracts: https://polygonscan.com/address/0x33cfce113d154f1920ea0b48053ad801636f8293**
+3. **OpenSea: https://opensea.io/collection/oye-paaji**
+
+4. **NFT Product Contracts: https://polygonscan.com/address/0x33cfce113d154f1920ea0b48053ad801636f8293**
 
 <br />
 
