@@ -8,6 +8,16 @@
 - Use the `src/config.js` file to set up your layers and NFT information.
 <br>
 
+## 🔗 Links:
+
+1. **NFT Forge Website: https://github.com/himanshu-03/NFT-Forge-Website** 
+
+2. **OpenSea: https://opensea.io/collection/oye-paaji**
+
+3. **NFT Product Contracts: https://polygonscan.com/address/0x33cfce113d154f1920ea0b48053ad801636f8293**
+
+<br />
+
 ## 📝 Steps to Generate, Upload and Mint your NFTs on OpenSea:
 
 ## Step 1 - Generating NFT
